@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Eshwar187/leetcode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshwar187/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Eshwar187/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Eshwar187/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Eshwar187/leetcode/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Eshwar187/leetcode/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Eshwar187/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
