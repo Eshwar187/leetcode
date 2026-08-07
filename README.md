@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Eshwar187/leetcode/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Eshwar187/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -63,5 +64,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
