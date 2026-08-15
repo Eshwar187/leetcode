@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Eshwar187/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Eshwar187/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Eshwar187/leetcode/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Eshwar187/leetcode/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Eshwar187/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0344-reverse-string](https://github.com/Eshwar187/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
