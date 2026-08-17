@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eshwar187/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Eshwar187/leetcode/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eshwar187/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Eshwar187/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
