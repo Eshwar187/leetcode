@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshwar187/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshwar187/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Eshwar187/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Eshwar187/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar187/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Eshwar187/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Eshwar187/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Eshwar187/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Eshwar187/leetcode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Eshwar187/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eshwar187/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Eshwar187/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Eshwar187/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Eshwar187/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Eshwar187/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Eshwar187/leetcode/tree/master/0202-happy-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshwar187/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Quicksort
@@ -251,4 +254,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Eshwar187/leetcode/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eshwar187/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eshwar187/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eshwar187/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
