@@ -14,10 +14,22 @@
  * }
  */
 class Solution {
+    public void insertIntoBSTHelper(TreeNode node, int val){
+        if(val<node.val){
+            if(node.left==null){
+                node.left=new TreeNode(val);
+                return;
+            }else insertIntoBSTHelper(node.left,val);
+        }else{
+            if(node.right==null){
+                node.right=new TreeNode(val);
+                return;
+            }else insertIntoBSTHelper(node.right,val);
+        }
+    }
     public TreeNode insertIntoBST(TreeNode root, int val) {
         if(root==null) return new TreeNode(val);
-        if(val>root.val) root.right=insertIntoBST(root.right,val);
-        else root.left=insertIntoBST(root.left,val);
+        insertIntoBSTHelper(root, val);
         return root;
     }
 }
