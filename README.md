@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Eshwar187/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Eshwar187/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Eshwar187/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eshwar187/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Eshwar187/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Eshwar187/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Eshwar187/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Eshwar187/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Eshwar187/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
