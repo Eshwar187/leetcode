@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Eshwar187/leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Eshwar187/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Eshwar187/leetcode/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Eshwar187/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Eshwar187/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Eshwar187/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar187/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Eshwar187/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Eshwar187/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Eshwar187/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/Eshwar187/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Eshwar187/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/Eshwar187/leetcode/tree/master/1254-number-of-closed-islands) |
